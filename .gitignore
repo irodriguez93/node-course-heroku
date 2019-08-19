@@ -1,0 +1,6 @@
+notes-app/node_modules
+.vscode/
+playground/node_modules
+web-server/node_modules
+weather-app/node_modules
+node_modules
